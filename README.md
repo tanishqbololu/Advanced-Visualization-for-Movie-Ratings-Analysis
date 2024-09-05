@@ -25,7 +25,7 @@ Key Highlights:
   * Tools & Libraries: Utilizes Python with Pandas for data manipulation, and Matplotlib (plt) and Seaborn (sns) for advanced visualizations.
     
 Files Included:
-  * movie_ratings_analysis.ipynb: The Jupyter Notebook that contains the full analysis and visualizations.
-  * movie_ratings.csv: The dataset used for this analysis.
+  * Advanced Visualisation Movie_Ratings.ipynb: The Jupyter Notebook that contains the full analysis and visualizations.
+  * Movie-Rating.csv: The dataset used for this analysis.
     
 Explore the notebook to see how advanced visualization techniques can enhance understanding of movie ratings data. Contributions and feedback are welcome!
