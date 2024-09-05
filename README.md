@@ -1,8 +1,23 @@
-Repository Name: Advanced Visualization & EDA for Movie Ratings Analysis
+Repository Name: Advanced Visualization for Movie Ratings Analysis
 
-Description:
+Overview
 
-This repository features a Jupyter Notebook that showcases advanced visualization and exploratory data analysis (EDA) techniques applied to a movie ratings dataset.
+ This repository includes a comprehensive analysis of movie ratings from both critics and audiences. The dataset, Movie-Rating.csv, contains information on various films including their genre, ratings from Rotten Tomatoes and audience reviews, budget, and release year.
+
+Features
+ * Data Cleaning and Preparation: Includes steps to clean and transform data for analysis, such as converting data types and renaming columns.
+ * Exploratory Data Analysis (EDA): Perform exploratory analysis to understand data distributions and relationships.
+ * Advanced Visualization: Utilizes Seaborn and Matplotlib to create detailed visualizations:
+  * Joint plots to explore the relationship between critic and audience ratings.
+  * Distribution plots to analyze rating distributions.
+  * Histograms and KDE plots to understand budget distributions across genres.
+  * Facet grids for multi-dimensional analysis, exploring how ratings and budgets vary across genres and years.
+  * Box plots and violin plots to visualize rating distributions by genre and year.
+    
+Tools and Libraries
+ * Pandas: For data manipulation and cleaning.
+ * Matplotlib and Seaborn: For creating static, animated, and interactive visualizations.
+ * Jupyter Notebook: For running the analysis and visualizations interactively.
 
 Key Highlights:
   * Data Analysis: Initial data cleaning and preprocessing.
